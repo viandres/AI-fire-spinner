@@ -1,10 +1,10 @@
-# AI Fire Spinner
+# Fire Spinner AI
 
-Welcome to the AI Fire Spinner project! This ambitious and exciting initiative aims to merge the art of fire spinning with the power of artificial intelligence to create a mesmerizing and dynamic performance experience.
+Welcome to the Fire Spinner AI project! This ambitious and exciting initiative aims to merge the art of fire spinning with the power of artificial intelligence to create a mesmerizing and dynamic performance experience.
 
 ## Project Overview
 
-The AI Fire Spinner project focuses on developing an AI model capable of learning and replicating the intricate movements of fire spinners dancing to music. By analyzing videos and accompanying music, the AI will learn the specific movements of a dragon staff, enabling it to perform autonomously when given a piece of music.
+The Fire Spinner AI project focuses on developing an AI model capable of learning and replicating the intricate movements of fire spinners dancing to music. By analyzing videos and accompanying music, the AI will learn the specific movements of a dragon staff, enabling it to perform autonomously when given a piece of music.
 
 ## Key Objectives
 

@@ -1,7 +1,7 @@
 import os
 
 # General Settings
-PROJECT_NAME = "Fire Spinning AI"
+PROJECT_NAME = "Fire Spinner AI"
 VERSION = "0.1.0"
 DEBUG = True
 
