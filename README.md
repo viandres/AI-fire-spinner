@@ -1,6 +1,20 @@
-# python-template
+# AI Fire Spinner
 
-Precondition:
+Welcome to the AI Fire Spinner project! This ambitious and exciting initiative aims to merge the art of fire spinning with the power of artificial intelligence to create a mesmerizing and dynamic performance experience.
+
+## Project Overview
+The AI Fire Spinner project focuses on developing an AI model capable of learning and replicating the intricate movements of fire spinners dancing to music. By analyzing videos and accompanying music, the AI will learn the specific movements of a dragon staff, enabling it to perform autonomously when given a piece of music.
+
+## Key Objectives
+- Data Collection: Gather and preprocess video data of fire spinners performing with a dragon staff, along with the corresponding music.
+- AI Model Development: Train an AI model to recognize and learn the movements of the dragon staff in sync with the music.
+- 3D Animation: Illustrate the AI-generated movements using a 3D animation program to visualize the performance.
+- Kinetic AI Sculpture: Build a kinetic sculpture that embodies the AI's learned choreography, capable of dancing and performing live with other real fire spinners at events, shows, and festivals.
+
+## Future Vision
+The ultimate goal of the AI Fire Spinner project is to create an AI-driven kinetic sculpture that not only performs solo but also collaborates with human performers. This will bring a unique fusion of technology and artistry to live performances, captivating audiences with a blend of innovation and tradition.
+
+# Precondition:
 Windows users can follow the official microsoft tutorial to install python, git and vscode here:
 
 - ​​https://docs.microsoft.com/en-us/windows/python/beginners
