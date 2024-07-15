@@ -1,8 +1,8 @@
 import os
 
 # General Settings
-PROJECT_NAME = "Dragon Staff AI"
-VERSION = "1.0.0"
+PROJECT_NAME = "Fire Spinning AI"
+VERSION = "0.1.0"
 DEBUG = True
 
 # Paths
